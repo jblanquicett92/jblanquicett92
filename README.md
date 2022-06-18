@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Urbvan
 - 🌱 I’m currently learning Python and GO
 - 👯 I’m looking to collaborate on microsoft Python Projects
-- ⚡ Fun fact: I like to read uncle Bob
--->
+- ⚡ Fun fact: I like to read uncle Bob Clean Code & Clean Infraestructure
